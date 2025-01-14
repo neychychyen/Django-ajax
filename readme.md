@@ -3,7 +3,8 @@
 <h4>В этом уроке будет рассмотренно использование ajax в проекте
 Django на примере простого приложения сбора сообщений от пользователя
 </h4>
-<a href="https://habr.com/ru/articles/862780/">Ссылка на урок на habr.com</a>
+<a href="https://habr.com/ru/articles/862780/">Ссылка на урок на habr.com
+</a>
 
 <details>
     <summary>О приложении</summary>
