@@ -5,6 +5,7 @@ Django на примере простого приложения сбора со
 </h4>
 <a href="https://habr.com/ru/articles/862780/">Ссылка на урок на habr.com
 </a>
+<h4></h4>
 
 <details>
     <summary>О приложении</summary>
